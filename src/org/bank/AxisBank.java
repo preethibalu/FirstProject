@@ -12,6 +12,9 @@ public class AxisBank extends BankInfo {
 		a.saving();
 		a.fixed();
 		a.deposit();
+		System.out.println("Technology work");
+		System.out.println("Technology work");
+		System.out.println("Technology work");
 	}
 
 }
