@@ -17,6 +17,11 @@ public class AxisBank extends BankInfo {
 		System.out.println("Push Sample");
 		System.out.println("Push Sample");
 		System.out.println("Push Sample");
+
+		System.out.println("Technology work");
+		System.out.println("Technology work");
+		System.out.println("Technology work");
+
 	}
 
 }
